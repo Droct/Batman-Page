@@ -1,0 +1,144 @@
+body {
+    background-image: url("images/bat.jpg")
+}
+
+body {
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+li {
+    font-family: verdana;
+    width: 10%;
+    color: #ffffff;
+    list-style: none;
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 150px;
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+
+
+    opacity: 1;
+    background-color: grey;
+    font-style: bold;
+}
+
+
+#header {
+    color: #ffffff;
+    font-family: 'Risque', cursive;
+    font-size: 50px;
+    margin-left: auto;
+    width: 400px;
+    margin-top: 100px;
+    text-shadow: 5px 0 0 #000000;
+    border: solid black 1px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #000000;
+    opacity: 0.3;
+}
+
+p {
+    font-size: 35px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    margin-top: 190px;
+    color: #ffffff;
+    padding-left: 5px;
+    font-family: risque;
+    text-shadow: 5px 0 0 #000000;
+}
+
+#footer {
+    font-family: arial;
+    font-size: 7px;
+    letter-spacing: 2px;
+    color: #fff;
+    border: black solid 2px;
+    width: 540px;
+    text-align: center;
+    margin: 350px auto;
+    background-color: grey;
+    height: 40px;
+}
+
+#batc {
+    margin: 100px auto;
+    color: #fff;
+    font-family: arial;
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #fff;
+    border: black solid 2px;
+    width: 540px;
+    text-align: center;
+    padding: 10px;
+    background-color: grey;
+    height: 20px;
+}
+
+#battrivia {
+    font-size: 20px;
+    width: 62%;
+    margin: 150px 60px;
+    text-shadow: 5px 0 0 #000;
+    border: grey solid 1px;
+    border-radius: 10px;
+    padding: 4px;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    height: 200px;
+}
+
+#quotta {
+    height: 400px;
+}
+
+#butt {
+    font-size: 20px;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #000;
+    padding: 4px;
+    margin: 100px 520px;
+}
+
+#alrightz {
+    border: solid black 2px;
+    width: 50%;
+    height: 40px;
+    margin: -100px auto;
+    padding: 20px;
+    background-color: grey;
+    color: black;
+    text-align: center;
+    
+    font-family: risque;
+    font-size: 25px;
+}
+
+#batto {
+    margin: 220px auto;
+    color: #fff;
+    font-family: arial;
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #fff;
+    border: black solid 2px;
+    width: 540px;
+    text-align: center;
+    padding: 10px;
+    background-color: grey;
+    height: 20px;
+}
+
+a:hover {
+    color: red;
+}
